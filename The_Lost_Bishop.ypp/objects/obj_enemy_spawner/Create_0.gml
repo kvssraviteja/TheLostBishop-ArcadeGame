@@ -84,8 +84,8 @@ for(var i = 0; i < floor(room_height/ 100) - 3; i += 1) {
 		/// @DnDParent : 1E95B94C
 		/// @DnDArgument : "var" "room_height"
 		/// @DnDArgument : "op" "4"
-		/// @DnDArgument : "value" "10000"
-		if(room_height >= 10000)
+		/// @DnDArgument : "value" "8500"
+		if(room_height >= 8500)
 		{
 			/// @DnDAction : YoYo Games.Common.If_Expression
 			/// @DnDVersion : 1
